@@ -61,7 +61,7 @@ className="flex items-center gap-2 bg-white text-black font-semibold px-6 py-3 r
 
         {/* Location */}
         <p className="text-white/85 text-sm mt-10">
-  📍 Mumbai, Maharashtra | Supplying Homes & Hospitality Nationwide
+  📍 Mumbai, Maharashtra <br/> Serving Homes, Hotels & Resorts Nationwide
 </p>
 
       </div>
